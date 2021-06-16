@@ -25,12 +25,13 @@ python main.py
 <li> Type in the command <b>"/apod"</b> with or without the date in the format YYYY-MM-DD.
 </ul>
 <div align="center">
-<div align="left">
-<img src = "https://github.com/RCReddyN/apod/blob/master/img/apod1.png">
+<h3>Without date parameter</h3>
+<img src = "./img/apod1.png">
 </div>
-<div align="right">
-<img src = "https://github.com/RCReddyN/apod/blob/master/img/apod2.png">
-</div>
+<br>
+
+<div align="center"><h3>With date as parameter</h3>
+<img src = "./img/apod2.png">
 </div>
 
 ## Author
